@@ -13,6 +13,7 @@ function Box({ prod }) {
         borderRadius: "5px",
         margin: "auto",
         transition: "all 0.1s ease",
+        borderRadius: "15px",
       }}
     >
       <img
